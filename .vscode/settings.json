@@ -1,0 +1,90 @@
+{
+  "cSpell.words": [
+    "authjs",
+    "bento",
+    "bunx",
+    "callees",
+    "CLIENTVAR",
+    "classname",
+    "clsx",
+    "cmdk",
+    "dont",
+    "drei",
+    "embla",
+    "europages",
+    "fedcba",
+    "googtrans",
+    "hono",
+    "hookform",
+    "hoverable",
+    "ianvs",
+    "jiti",
+    "kompass",
+    "lockb",
+    "lockb",
+    "lucide",
+    "msword",
+    "nativewind",
+    "nextauth",
+    "nextjs",
+    "notranslate",
+    "officedocument",
+    "oidc",
+    "openxmlformats",
+    "phong",
+    "presentationml",
+    "pressable",
+    "prettiercache",
+    "shadcn",
+    "signin",
+    "sonner",
+    "spreadsheetml",
+    "subrouters",
+    "superjson",
+    "tab",
+    "tailwindcss",
+    "tanstack",
+    "topo",
+    "trpc",
+    "tsbuildinfo",
+    "tseslint",
+    "turborepo",
+    "tutip",
+    "typecheck",
+    "typesafe",
+    "unauthed",
+    "usehooks",
+    "vaul",
+    "webauthn",
+    "wordprocessingml"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "eslint.rules.customizations": [{ "rule": "*", "severity": "warn" }],
+  "eslint.experimental.useFlatConfig": true,
+  "eslint.workingDirectories": [
+    { "pattern": "apps/*/" },
+    { "pattern": "packages/*/" },
+    { "pattern": "tooling/*/" }
+  ],
+  "tailwindCSS.experimental.classRegex": [
+    ["cva\\(([^)]*)\\)", "[\"'`]([^\"'`]*).*?[\"'`]"],
+    ["cx\\(([^)]*)\\)", "(?:'|\"|`)([^']*)(?:'|\"|`)"]
+  ],
+  "tailwindCSS.experimental.configFile": "./tooling/tailwind/web.ts",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "typescript.preferences.autoImportFileExcludePatterns": [
+    "next/router.d.ts",
+    "next/dist/client/router.d.ts"
+  ],
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "[dotenv]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "[ignore]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  }
+}

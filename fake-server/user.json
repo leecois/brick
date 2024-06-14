@@ -1,0 +1,164 @@
+[
+  {
+    "alpha": 3,
+    "beta": 3,
+    "date": "2024-06-01T06:08:55Z",
+    "id": "660a4f77f5cdbb53f9239e84",
+    "model": "gpt-3.5-turbo-0125",
+    "query": "0901 in Germany",
+    "source": "linkedin"
+  },
+  {
+    "alpha": 3,
+    "beta": 3,
+    "date": "2024-05-31T06:08:54Z",
+    "id": "660a4f76f5cdbb53f9239e83",
+    "model": "gpt-3.5-turbo-0125",
+    "query": "HS code 4202 in France",
+    "source": "kompass"
+  },
+  {
+    "alpha": 3,
+    "beta": 3,
+    "date": "2024-05-29T06:11:00Z",
+    "id": "660a4ff4f5cdbb53f9239e92",
+    "model": "gpt-3.5-turbo-0125",
+    "query": "HS code 0901 in South Korea",
+    "source": "europages"
+  },
+  {
+    "alpha": 3,
+    "beta": 3,
+    "date": "2024-05-28T06:10:59Z",
+    "id": "660a4ff3f5cdbb53f9239e91",
+    "model": "gpt-3.5-turbo-0125",
+    "query": "4202 in Singapore",
+    "source": "linkedin"
+  },
+  {
+    "alpha": 3,
+    "beta": 3,
+    "date": "2024-05-27T06:10:58Z",
+    "id": "660a4ff2f5cdbb53f9239e90",
+    "model": "gpt-3.5-turbo-0125",
+    "query": "HS code 4202 in Philippines",
+    "source": "kompass"
+  },
+  {
+    "alpha": 3,
+    "beta": 3,
+    "date": "2024-05-26T06:10:57Z",
+    "id": "660a4ff1f5cdbb53f9239e8f",
+    "model": "gpt-3.5-turbo-0125",
+    "query": "4202 in Malaysia",
+    "source": "europages"
+  },
+  {
+    "alpha": 3,
+    "beta": 3,
+    "date": "2024-05-25T06:10:56Z",
+    "id": "660a4ff0f5cdbb53f9239e8e",
+    "model": "gpt-3.5-turbo-0125",
+    "query": "HS code 0901 in Thailand",
+    "source": "kompass"
+  },
+  {
+    "alpha": 3,
+    "beta": 3,
+    "date": "2024-05-24T06:10:55Z",
+    "id": "660a4feff5cdbb53f9239e8d",
+    "model": "gpt-3.5-turbo-0125",
+    "query": "HS code 4202 in Indonesia",
+    "source": "linkedin"
+  },
+  {
+    "alpha": 3,
+    "beta": 3,
+    "date": "2024-05-23T06:10:54Z",
+    "id": "660a4feef5cdbb53f9239e8c",
+    "model": "gpt-3.5-turbo-0125",
+    "query": "HS code 0901 in India",
+    "source": "europages"
+  },
+  {
+    "alpha": 3,
+    "beta": 3,
+    "date": "2024-05-22T06:10:53Z",
+    "id": "660a4fedf5cdbb53f9239e8b",
+    "model": "gpt-3.5-turbo-0125",
+    "query": "4202 in China",
+    "source": "linkedin"
+  },
+  {
+    "alpha": 3,
+    "beta": 3,
+    "date": "2024-05-21T06:10:52Z",
+    "id": "660a4fecf5cdbb53f9239e8a",
+    "model": "gpt-3.5-turbo-0125",
+    "query": "HS code 0901 in Vietnam",
+    "source": "kompass"
+  },
+  {
+    "alpha": 3,
+    "beta": 3,
+    "date": "2024-05-18T06:08:56Z",
+    "id": "660a4f78f5cdbb53f9239e85",
+    "model": "gpt-3.5-turbo-0125",
+    "query": "HS code 4202 in Japan",
+    "source": "europages"
+  },
+  {
+    "alpha": 3,
+    "beta": 3,
+    "date": "2024-05-12T06:11:03Z",
+    "id": "660a4ff7f5cdbb53f9239e95",
+    "model": "gpt-3.5-turbo-0125",
+    "query": "4202 in Australia",
+    "source": "europages"
+  },
+  {
+    "alpha": 3,
+    "beta": 3,
+    "date": "2024-05-11T06:11:02Z",
+    "id": "660a4ff6f5cdbb53f9239e94",
+    "model": "gpt-3.5-turbo-0125",
+    "query": "HS code 0901 in Hong Kong",
+    "source": "kompass"
+  },
+  {
+    "alpha": 3,
+    "beta": 3,
+    "date": "2024-05-10T06:11:01Z",
+    "id": "660a4ff5f5cdbb53f9239e93",
+    "model": "gpt-3.5-turbo-0125",
+    "query": "HS code 4202 in Taiwan",
+    "source": "linkedin"
+  },
+  {
+    "alpha": 3,
+    "beta": 3,
+    "date": null,
+    "id": "ex1",
+    "model": "gpt-3.5-turbo-0125",
+    "query": "Example 1",
+    "source": "kompass"
+  },
+  {
+    "alpha": 3,
+    "beta": 3,
+    "date": null,
+    "id": "ex2",
+    "model": "gpt-3.5-turbo-0125",
+    "query": "Example 2",
+    "source": "linkedin"
+  },
+  {
+    "alpha": 3,
+    "beta": 3,
+    "date": null,
+    "id": "ex3",
+    "model": "gpt-3.5-turbo-0125",
+    "query": "Example 3",
+    "source": "europages"
+  }
+]
