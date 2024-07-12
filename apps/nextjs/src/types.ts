@@ -51,10 +51,10 @@ interface CompanyInfo {
   buyingProducts?: string[]
   companyDescription?: string
   emails?: string[]
+  importPotential?: number
+  importPotentialReasoning?: string
   industries?: string[]
   internationalTrade?: string[]
-  marketTradingPotential?: number
-  marketTradingPotentialReasoning?: string
   phones?: string[]
   sellingProducts?: Product[]
   socialMedia?: SocialMedia[]

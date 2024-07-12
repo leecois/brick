@@ -38,10 +38,10 @@ const ICON_SOCIAL = {
       buyingProducts,
       companyDescription,
       emails,
+      importPotential,
+      importPotentialReasoning,
       industries,
       internationalTrade,
-      marketTradingPotential,
-      marketTradingPotentialReasoning,
       phones,
       sellingProducts,
       socialMedia,
@@ -69,12 +69,12 @@ const ICON_SOCIAL = {
             <CardHeader>
               <CardTitle className='flex items-center text-base sm:text-lg'>
                 <FaChartLine className='mr-2 text-2xl sm:text-xl' />
-                Market Trading Potential
+                Import Potential
               </CardTitle>
             </CardHeader>
             <CardContent>
-              <p className='text-lg font-bold'>{marketTradingPotential}/10</p>
-              <p className='mt-2 text-sm text-stone-600'>{marketTradingPotentialReasoning}</p>
+              <p className='text-lg font-bold'>{importPotential}/10</p>
+              <p className='mt-2 text-sm text-stone-600'>{importPotentialReasoning}</p>
             </CardContent>
           </Card>
 

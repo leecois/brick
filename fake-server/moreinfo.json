@@ -28,8 +28,8 @@
     "Retail"
   ],
   "internationalTrade": ["Vietnam", "China", "Taiwan"],
-  "marketTradingPotential": 9,
-  "marketTradingPotentialReasoning": "Nguyen Coffee Supply actively engages in both domestic and international trade, importing green coffee beans from Vietnam and selling roasted coffee and related products online and through retail partnerships.",
+  "importPotential": 9,
+  "importPotentialReasoning": "Nguyen Coffee Supply actively engages in both domestic and international trade, importing green coffee beans from Vietnam and selling roasted coffee and related products online and through retail partnerships.",
   "phones": ["123456789"],
   "sellingProducts": [
     {
