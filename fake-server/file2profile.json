@@ -1,0 +1,54 @@
+{
+  "addresses": [
+    {
+      "country": "Jordan",
+      "name": "Bunni Coffee Roastery & Academy"
+    }
+  ],
+  "description": "(from file) Bunni is an independent family-owned business that seeks to empower individuals and businesses with the knowledge to understand great coffee. We source with traceability and work in full transparency to bring you closer to the farmers. We aim to foster an equal community where appreciation of our work results from our respect for the whole process.",
+  "industries": [
+    "Coffee Roasting",
+    "Specialty Coffee",
+    "Coffee Education",
+    "Coffee Equipment",
+    "Coffee Retail"
+  ],
+  "mails": ["info@bunni.coffee"],
+  "phones": ["+962 (0) 64638080"],
+  "products": [
+    {
+      "description": "El Salvador has witnessed a transformation in coffee quality over the past five years. Competing on the international stage and carrying out pioneering experimental processing as of late has left us with some exceptional results. The harvest in El Salvador runs from December to March. We source coffees typically harvested in February, reaching the roastery in the late summer.\n\nWhat do we source from El Salvador and why? We have so far brought three consecutive harvests from the mountainous region of Apaneca Ilamatepec, and each year we are increasingly impressed by the offerings. From the most recent harvest, we solely sourced Naturals and Honeys of the Bourbon varietal, as these offered the most noticeably improved cup quality when compared to former harvests. We only source Strictly High-Grown (SHG) coffee in El Salvador, meaning that all farms are located over 1200 metres above sea level. This also explains the high quality, which have given us full-bodied profiles with clear flavours and memorable aromas.\n\nThe Geisha coffee plant varietal was one of the most recent entrants to the El Salvador coffee scene. Like much of the remarkable offerings from El Salvador, Geisha remains very much in the experimental stage. We were fortunate to be able to purchase one of the first Geishas from the most recent harvest, although over the years to come we will certainly see more Geishas and experimental processes arriving at the roastery as El Salvador continues to develop their unique offerings.",
+      "name": "EL SALVADOR GEISHA"
+    },
+    {
+      "description": "The Curious Collection is for those interested in trying our coffee, but not sure where to start.  \n\nThis Curious Collection contains:  \n\n1x 125g NICARAGUA DIPLITO (ML)  \n1x 125g EL SALVADOR SAN FELIPE (M)  \n1x 125g ETHIOPIA BENSA (M+)  \n1x 125g COLOMBIAN BLEND (MD)  \n\nWe source high-quality specialty coffee from various countries around the world. Our offerings change on a regular basis as we move with the seasons, yet we offer consistent characteristics in the taste profiles that we source.   \n\nIn this set you will find one of each of our four roast levels, suggesting how the taste differs between each offering. This set should give you a sense of which taste profile you prefer and, ideally, how you like to brew coffee.   \n\nOnce you have found your favourite bean and roast level, we shall bring you into our world of a never-ending exploration of different origins, farms, varietals, and processes as we enjoy the subtle differences that each selection offers.  \n\nIf you would rather try one or two kinds of beans individually, this option is now available. Kindly note that this option does not include the burlap bag or information card.  \n\nTo be more sustainable, we have designed this pouch from upcycled burlap bags that were used to import our beans from the southwest of Colombia. Our objective was two-fold: to find a sustainable solution for our burlap bags which would otherwise be considered waste while providing a means of income generation for a group of local women looking for greater financial independence.\n\nThis sample set offers a wide range of flavour profiles which can be used from espresso (typically the M+ and MD roasts) to filter (typically ML and M). We would suggest to use a device you're familiar with and see which roast level and bean type fits your taste preferences.",
+      "name": "CURIOUS COLLECTION"
+    },
+    {
+      "description": "For residents of the GCC (Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates), you can enjoy 6 x 250 g packs of our beans delivered to your door for FREE!",
+      "name": "FREE DELIVERY to the GCC"
+    },
+    {
+      "description": "This full-day course is designed to introduce core skills and knowledge to individuals passionate to start a career as a coffee professional. No previous barista experience is required. In this course you will learn about:\n\n* The basics of coffee beans – both green and roasted;\n* Introduction to barista techniques;\n* Setting your grinder - calibration, dosing, distributing and tamping;\n* Foundations of espresso brewing;\n* The espresso machine & grinder;\n* Introduction to milk science;\n* The espresso-based menu;\n* Essential cleaning and daily maintenance of the espresso machine.",
+      "name": "SCA Barista Skills Foundation"
+    },
+    {
+      "description": "The AeroPress is unique in many ways. In terms of brewing, it merges different types of brewing (immersion and pressure) to produce a smooth and rich result. It is quick and easy to use, with a wide range of potential recipes to explore.\n\nIt is made of sturdy plastic, meaning that it is ideal for travelling. Cleaning could also not be easier!\n\nThe AeroPress set comes with a scoop, funnel, stirrer and [350 paper filters].",
+      "name": "AeroPress Coffee Maker"
+    }
+  ],
+  "socials": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com"
+    }
+  ],
+  "targets": [
+    "Coffee Enthusiasts",
+    "Coffee Professionals",
+    "Individuals seeking coffee education",
+    "Businesses looking for coffee solutions",
+    "Home Baristas"
+  ],
+  "websites": ["http://www.bunni.coffee"]
+}

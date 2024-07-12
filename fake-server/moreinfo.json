@@ -1,0 +1,111 @@
+{
+  "buyingProducts": [
+    "Green Coffee Beans (Robusta & Arabica)",
+    "Coffee Packaging Materials",
+    "Shipping Supplies",
+    "Roasting Equipment",
+    "Brewing Tools (Phin Filters)",
+    "Marketing & Advertising Services",
+    "Web Development & Hosting",
+    "Customer Relationship Management (CRM) Software",
+    "Accounting Software",
+    "Office Supplies"
+  ],
+  "companyDescription": "Nguyen Coffee Supply is America's first specialty Vietnamese coffee company and proud champion of the resilient robusta bean. We import through direct-trade relationships with Vietnamese farmers and roast in Brooklyn, New York. Founded in 2018 by 1st generation entrepreneur Sahra Nguyen, we're on a mission to change the future of coffee through diversity, sustainability and cultural integrity.",
+  "emails": [
+    "nguyencoffeesupply@gmail.com",
+    "www.hello@nguyencoffeesupply.com",
+    "hello@nguyencoffeesupply.com",
+    "help@nguyencoffeesupply.com"
+  ],
+  "industries": [
+    "Food & Beverage",
+    "Coffee Roasting",
+    "Coffee Importing",
+    "Specialty Coffee",
+    "Direct Trade",
+    "E-commerce",
+    "Retail"
+  ],
+  "internationalTrade": ["Vietnam", "China", "Taiwan"],
+  "marketTradingPotential": 9,
+  "marketTradingPotentialReasoning": "Nguyen Coffee Supply actively engages in both domestic and international trade, importing green coffee beans from Vietnam and selling roasted coffee and related products online and through retail partnerships.",
+  "phones": ["123456789"],
+  "sellingProducts": [
+    {
+      "description": "A blend of robusta and arabica beans, offering a smooth balance of nutty, chocolatey, and a hint of fruit. It's designed to be your everyday coffee and tastes amazing as espresso.",
+      "name": "Loyalty Blend"
+    },
+    {
+      "description": "100% arabica beans, offering a lighter and fruitier coffee. It's also a rare specialty bean of Vietnam since it's less than 10% of Vietnam's total coffee production. Moxy is also excellent as an everyday coffee or espresso.",
+      "name": "Moxy"
+    },
+    {
+      "description": "Our strongest coffee, being 100% peaberry robusta. It has nearly 2x the caffeine content of Moxy. It's bold, strong, and surprisingly smooth!",
+      "name": "Truegrit"
+    },
+    {
+      "description": "Ready-to-drink 100% robusta cold brew, offering a bold, smooth, and strong coffee experience. It's 100% natural, dairy-free, gluten-free, and shelf-stable.",
+      "name": "Cold Brew: Classic Black"
+    },
+    {
+      "description": "Ready-to-drink 100% robusta cold brew with coconut milk, inspired by the traditional cà phê dừa of Vietnam. It's a bold, smooth, and strong coffee with a touch of coconut flavor. It's 100% natural, dairy-free, gluten-free, and shelf-stable.",
+      "name": "Cold Brew: Coconut"
+    }
+  ],
+  "socialMedia": [
+    {
+      "platform": "Facebook",
+      "url": ""
+    },
+    {
+      "platform": "Instagram",
+      "url": ""
+    },
+    {
+      "platform": "Twitter",
+      "url": ""
+    },
+    {
+      "platform": "TikTok",
+      "url": ""
+    },
+    {
+      "platform": "YouTube",
+      "url": ""
+    },
+    {
+      "platform": "somethingElse",
+      "url": ""
+    }
+  ],
+  "storesBranchesOffices": [
+    {
+      "country": "United States",
+      "name": "Nguyen Coffee Supply Roastery"
+    }
+  ],
+  "targetCustomers": [
+    "Coffee Lovers",
+    "Specialty Coffee Enthusiasts",
+    "Robusta Coffee Fans",
+    "Vietnamese Coffee Seekers",
+    "Sustainable Coffee Consumers",
+    "Businesses",
+    "Corporate Clients",
+    "Employees",
+    "Gift Recipients"
+  ],
+  "targetSuppliers": [
+    "Vietnamese Coffee Farmers",
+    "Coffee Packaging Suppliers",
+    "Shipping Companies",
+    "Roasting Equipment Manufacturers",
+    "Brewing Tool Suppliers",
+    "Marketing Agencies",
+    "Web Developers",
+    "CRM Software Providers",
+    "Accounting Software Providers",
+    "Office Supply Stores"
+  ]
+}
